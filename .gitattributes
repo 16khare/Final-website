@@ -1,0 +1,6 @@
+C:Users91875DownloadsWEBSITE filter=lfs diff=lfs merge=lfs -text
+MINORWEBSITE filter=lfs diff=lfs merge=lfs -text
+MINOR filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
